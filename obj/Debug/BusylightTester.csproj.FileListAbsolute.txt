@@ -1,0 +1,11 @@
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\bin\Debug\BusylightTester.exe.config
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\bin\Debug\BusylightTester.exe
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\bin\Debug\BusylightTester.pdb
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\bin\Debug\BusylightSDK.dll
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\obj\Debug\BusylightTester.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\obj\Debug\BusylightTester.frmCustom.resources
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\obj\Debug\BusylightTester.frmMain.resources
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\obj\Debug\BusylightTester.Properties.Resources.resources
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\obj\Debug\BusylightTester.csproj.GenerateResource.Cache
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\obj\Debug\BusylightTester.exe
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\obj\Debug\BusylightTester.pdb

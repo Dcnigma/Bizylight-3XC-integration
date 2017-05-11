@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\bin\Release\BusylightSDK.dll
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\obj\Release\BusylightTester.frmCustom.resources
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\obj\Release\BusylightTester.frmMain.resources
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\obj\Release\BusylightTester.csproj.GenerateResource.Cache
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\bin\Release\MyCRMPlugin.pdb
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\obj\Release\MyCRMPlugin.Properties.Resources.resources
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\obj\Release\MyCRMPlugin.pdb
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\bin\Release\MyPhoneCRMIntegration.dll
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\obj\Release\BusylightTester.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\bin\Release\MyCRMPlugin.dll.config
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\bin\Release\MyCRMPlugin.dll
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\obj\Release\MyCRMPlugin.dll
