@@ -28,8 +28,11 @@ How can others help?
 ---------------------------------------------------------------------
 I have posted my source code at the 3cx forum and my github,
 so other people can collaborate to make a better plug-in.
+
 3CX forum post: https://www.3cx.com/community/threads/busy-light-integration.48895/
+
 Github: https://github.com/Dcnigma/Bizylight-3XC-integration
+
 ---------------------------------------------------------------------
 License information
 ---------------------------------------------------------------------
