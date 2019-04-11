@@ -36,7 +36,7 @@ Github: https://github.com/Dcnigma/Bizylight-3XC-integration
 ---------------------------------------------------------------------
 License information
 ---------------------------------------------------------------------
-Created by Bart Hamblok 2017
+Created by Dcnigma 2017
 
 Developed in Visual studio Community 2017
 
